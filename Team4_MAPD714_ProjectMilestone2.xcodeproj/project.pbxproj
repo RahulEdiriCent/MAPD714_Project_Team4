@@ -7,15 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5E1D7BF32B02D63900186558 /* BookingDetails_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1D7BF22B02D63900186558 /* BookingDetails_ViewController.swift */; };
+		5E1D7BF72B02E29600186558 /* PaymentInfo_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1D7BF62B02E29600186558 /* PaymentInfo_ViewController.swift */; };
+		5E589DB62AF07FE100D7BB72 /* LoginPage_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E589DB52AF07FE100D7BB72 /* LoginPage_ViewController.swift */; };
+		5E589DB82AF0803100D7BB72 /* RegisterPage_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E589DB72AF0803100D7BB72 /* RegisterPage_ViewController.swift */; };
 		5E92B3432AEF04B20075351A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E92B3422AEF04B20075351A /* AppDelegate.swift */; };
 		5E92B3452AEF04B20075351A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E92B3442AEF04B20075351A /* SceneDelegate.swift */; };
-		5E92B3472AEF04B20075351A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E92B3462AEF04B20075351A /* ViewController.swift */; };
+		5E92B3472AEF04B20075351A /* HomePage_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E92B3462AEF04B20075351A /* HomePage_ViewController.swift */; };
 		5E92B34A2AEF04B20075351A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E92B3482AEF04B20075351A /* Main.storyboard */; };
 		5E92B34C2AEF04B30075351A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E92B34B2AEF04B30075351A /* Assets.xcassets */; };
 		5E92B34F2AEF04B30075351A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E92B34D2AEF04B30075351A /* LaunchScreen.storyboard */; };
 		5E92B35A2AEF04B30075351A /* Team4_MAPD714_ProjectMilestone2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E92B3592AEF04B30075351A /* Team4_MAPD714_ProjectMilestone2Tests.swift */; };
 		5E92B3642AEF04B30075351A /* Team4_MAPD714_ProjectMilestone2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E92B3632AEF04B30075351A /* Team4_MAPD714_ProjectMilestone2UITests.swift */; };
 		5E92B3662AEF04B30075351A /* Team4_MAPD714_ProjectMilestone2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E92B3652AEF04B30075351A /* Team4_MAPD714_ProjectMilestone2UITestsLaunchTests.swift */; };
+		5E92B3732AEF1A510075351A /* CruiseSelect_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E92B3722AEF1A510075351A /* CruiseSelect_ViewController.swift */; };
+		5E92B3752AEFA7430075351A /* CruiseDetail_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E92B3742AEFA7430075351A /* CruiseDetail_ViewController.swift */; };
+		5ED07E5C2B0317F400BB10C3 /* Confirmation_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED07E5B2B0317F400BB10C3 /* Confirmation_ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,10 +43,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5E1D7BF22B02D63900186558 /* BookingDetails_ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookingDetails_ViewController.swift; sourceTree = "<group>"; };
+		5E1D7BF62B02E29600186558 /* PaymentInfo_ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentInfo_ViewController.swift; sourceTree = "<group>"; };
+		5E589DB52AF07FE100D7BB72 /* LoginPage_ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPage_ViewController.swift; sourceTree = "<group>"; };
+		5E589DB72AF0803100D7BB72 /* RegisterPage_ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterPage_ViewController.swift; sourceTree = "<group>"; };
 		5E92B33F2AEF04B20075351A /* Team4_MAPD714_ProjectMilestone2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Team4_MAPD714_ProjectMilestone2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E92B3422AEF04B20075351A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5E92B3442AEF04B20075351A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		5E92B3462AEF04B20075351A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		5E92B3462AEF04B20075351A /* HomePage_ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage_ViewController.swift; sourceTree = "<group>"; };
 		5E92B3492AEF04B20075351A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5E92B34B2AEF04B30075351A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5E92B34E2AEF04B30075351A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -49,6 +60,9 @@
 		5E92B35F2AEF04B30075351A /* Team4_MAPD714_ProjectMilestone2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Team4_MAPD714_ProjectMilestone2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E92B3632AEF04B30075351A /* Team4_MAPD714_ProjectMilestone2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Team4_MAPD714_ProjectMilestone2UITests.swift; sourceTree = "<group>"; };
 		5E92B3652AEF04B30075351A /* Team4_MAPD714_ProjectMilestone2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Team4_MAPD714_ProjectMilestone2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5E92B3722AEF1A510075351A /* CruiseSelect_ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CruiseSelect_ViewController.swift; sourceTree = "<group>"; };
+		5E92B3742AEFA7430075351A /* CruiseDetail_ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CruiseDetail_ViewController.swift; sourceTree = "<group>"; };
+		5ED07E5B2B0317F400BB10C3 /* Confirmation_ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Confirmation_ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,11 +115,18 @@
 			children = (
 				5E92B3422AEF04B20075351A /* AppDelegate.swift */,
 				5E92B3442AEF04B20075351A /* SceneDelegate.swift */,
-				5E92B3462AEF04B20075351A /* ViewController.swift */,
 				5E92B3482AEF04B20075351A /* Main.storyboard */,
 				5E92B34B2AEF04B30075351A /* Assets.xcassets */,
 				5E92B34D2AEF04B30075351A /* LaunchScreen.storyboard */,
 				5E92B3502AEF04B30075351A /* Info.plist */,
+				5E92B3462AEF04B20075351A /* HomePage_ViewController.swift */,
+				5E92B3722AEF1A510075351A /* CruiseSelect_ViewController.swift */,
+				5E92B3742AEFA7430075351A /* CruiseDetail_ViewController.swift */,
+				5E589DB52AF07FE100D7BB72 /* LoginPage_ViewController.swift */,
+				5E589DB72AF0803100D7BB72 /* RegisterPage_ViewController.swift */,
+				5E1D7BF22B02D63900186558 /* BookingDetails_ViewController.swift */,
+				5E1D7BF62B02E29600186558 /* PaymentInfo_ViewController.swift */,
+				5ED07E5B2B0317F400BB10C3 /* Confirmation_ViewController.swift */,
 			);
 			path = Team4_MAPD714_ProjectMilestone2;
 			sourceTree = "<group>";
@@ -258,9 +279,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5E92B3472AEF04B20075351A /* ViewController.swift in Sources */,
+				5E92B3752AEFA7430075351A /* CruiseDetail_ViewController.swift in Sources */,
+				5E92B3472AEF04B20075351A /* HomePage_ViewController.swift in Sources */,
 				5E92B3432AEF04B20075351A /* AppDelegate.swift in Sources */,
+				5ED07E5C2B0317F400BB10C3 /* Confirmation_ViewController.swift in Sources */,
+				5E1D7BF32B02D63900186558 /* BookingDetails_ViewController.swift in Sources */,
 				5E92B3452AEF04B20075351A /* SceneDelegate.swift in Sources */,
+				5E1D7BF72B02E29600186558 /* PaymentInfo_ViewController.swift in Sources */,
+				5E92B3732AEF1A510075351A /* CruiseSelect_ViewController.swift in Sources */,
+				5E589DB82AF0803100D7BB72 /* RegisterPage_ViewController.swift in Sources */,
+				5E589DB62AF07FE100D7BB72 /* LoginPage_ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

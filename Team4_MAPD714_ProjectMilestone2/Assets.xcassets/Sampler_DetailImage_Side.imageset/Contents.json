@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "pexels-asad-photo-maldives-3601425.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "pexels-asad-photo-maldives-3601425 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "pexels-asad-photo-maldives-3601425 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
